@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Frontend devlopment**
 
-- 💬 Ask me about **HTML,CSS,competitive programming**
+- 💬 Ask me about **HTML,CSS,JAVA SCRIPT ,Competitive Programming**
 
 - 📫 How to reach me **aniketraj1615@gmail.com**
 
